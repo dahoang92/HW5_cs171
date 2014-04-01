@@ -2,7 +2,7 @@
 
 ===
 
-This homework is about bird droppings and social media analysis. In the first problem we investigate potential risk for human clothes and the impact of bird droppings on weather changes. The Second Problem focuses on social media analysis.
+This homework is about bird migration and social media analysis. In the first problem we investigate potential risk for human clothes and the impact of bird droppings on weather changes. The Second Problem focuses on social media analysis.
 
 Find more information on both topics [here](http://en.wikipedia.org/wiki/April_Fools'_Day).
   

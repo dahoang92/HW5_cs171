@@ -36,7 +36,7 @@ For this problem's data set, you are to find at least 10 members of the course s
 
 - Their favorite color
 - What they ate for lunch that day
-- Their favorite Kesha song
+- Their favorite Ke$ha song
 
 **Hint:** If you are a distance student and unable to collect this data in person, please feel free to use social networking tools, such as MySpace, to reach out the course staff members.
 

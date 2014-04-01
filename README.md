@@ -53,4 +53,4 @@ Tasks
 Conclusion
 ===
 
-Robert Olsen said: "If you can laugh together, you can work together."  In this sense, we wish you a successful HW4 and we wish us together with you great visualization projects for CS171.
+Robert Olsen said: "If you can laugh together, you can work together."  In this sense, we wish us together with you great visualization projects for CS171.

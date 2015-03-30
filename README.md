@@ -41,6 +41,17 @@ For this problem's data set, you are to find at least 10 members of the course s
 **Hint:** If you are a distance student and unable to collect this data in person, please feel free to use social networking tools, such as MySpace, to reach out the course staff members.
 
 
+Problem 3 - Visualizing Rainfall in the Amazon
+====
+The Amazon forests are essential for earth's oxygen supply. In an effort to re-channel the water canals to counter deforestation, you will build a visualization that shows how much rain falls in different parts of the Amazon. The target users are the governments of Brazil, Peru, Bolivia, and Colombia.   
+
+Tasks
+--------
+- Locate an SVG map of the Amazon and embed it in your visualization, called **amazon_map**.
+- Capture the amount of rainfall for each 100 squared miles of the Amazon basin, for each month of 2014.
+- Build a stacked area chart, starting with the bottom area representing January 2014, and ending with the topmost area layer represending December 2014. The y-axis will denote inches of rain and the x-axis will denote day of month.
+- Build a brush on the SVG map that filters the stacked area chart, based on the geographic selection.
+
 Design Studio
 ----
 For this portion of the assignment, you should create an interactive visualization that includes storytelling elements to portray any interested trends you find from viewing the data.  Please include at least 7 sketches and a description of the type of writing utensil that you used.  Please note that for this homework, and this homework only, we are encouraging the usage of 3D donut charts (eatable versions preffered).

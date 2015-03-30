@@ -49,7 +49,7 @@ Tasks
 --------
 - Locate an SVG map of the Amazon and embed it in your visualization, called **amazon_map**.
 - Capture the amount of rainfall for each 100 squared miles of the Amazon basin, for each month of 2014.
-- Build a stacked area chart, starting with the bottom area representing January 2014, and ending with the topmost area layer represending December 2014. The y-axis will denote inches of rain and the x-axis will denote day of month.
+- Build a stacked area chart, starting with the bottom area representing January 2014, and ending with the topmost area layer representing December 2014. The y-axis will denote inches of rain and the x-axis will denote day of month.
 - Build a brush on the SVG map that filters the stacked area chart, based on the geographic selection.
 
 Design Studio
